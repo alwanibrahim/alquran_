@@ -16,7 +16,7 @@ Aplikasi ini dirancang untuk membantu pengguna membaca, mencari, dan memahami Al
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/alwanibrahim/tiket_wisata.git
+   git clone https://github.com/alwanibrahim/alquran_.git
 
 
 
